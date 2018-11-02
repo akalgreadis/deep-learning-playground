@@ -8,7 +8,7 @@ In this hands-on exercise we are going to learn to use Convolutional Neural Netw
 ## Exercise 2 - Sentiment Analysis with Deep Learning
 In this exercise, we are going to build a Recurrent Neural Networks (RNN) to perform sentimel analysis on the [International Movie DataBase](http://www.imdb.com/).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/akalgreadis/deep-learning-playground/blob/master/Sentiment_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akalgreadis/deep-learning-playground/blob/master/Sentiment_Analysis.ipynb)
 
 ## Exercise 3 - Building auto-encoders in Keras
 In the exercise, we show how to build auto-encoders in Keras, which can be used to compress images and remove noise.
